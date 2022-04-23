@@ -1,0 +1,19 @@
+
+body{
+
+  background-image:url("nccflgback.jpg");
+  background-size:cover;
+}
+h1 {
+  font-family: verdana;
+  font-size: 300%;
+  color: blue;
+}
+h2{
+  font-family: courier;
+  font-size: 150%;
+  color: red;
+}
+img {
+  border: 5px solid #555;
+}
